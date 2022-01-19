@@ -4,3 +4,4 @@ from django.shortcuts import render, HttpResponse
 
 def codingsessionspage(request):
     return HttpResponse('<h1>Hello World</h1>')
+
